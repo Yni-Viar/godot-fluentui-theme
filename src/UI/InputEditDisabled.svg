@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.0px"
+   height="24.0px"
+   viewBox="0 0 24.0 24.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="InputEditDisabled.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview687"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="27.239109"
+     inkscape:cx="18.135688"
+     inkscape:cy="10.536321"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid810" />
+  </sodipodi:namedview>
+  <defs
+     id="defs682">
+    <mask
+       id="path-84-inside-1_1_840"
+       fill="#ffffff">
+      <path
+         d="m 37,270 c 0,-2.209 1.7909,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 H 41 c -2.2091,0 -4,-1.791 -4,-4 z"
+         id="path302" />
+    </mask>
+    <mask
+       id="path-84-inside-1_1_840-5"
+       fill="#ffffff">
+      <path
+         d="m 37,270 c 0,-2.209 1.7909,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 H 41 c -2.2091,0 -4,-1.791 -4,-4 z"
+         id="path302-1" />
+    </mask>
+    <mask
+       id="path-96-inside-5_1_840"
+       fill="#ffffff">
+      <path
+         d="m 123,270 c 0,-2.209 1.791,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 h -58 c -2.209,0 -4,-1.791 -4,-4 z"
+         id="path338" />
+    </mask>
+    <mask
+       id="path-93-inside-4_1_840"
+       fill="#ffffff">
+      <path
+         d="m 209,270 c 0,-2.209 1.791,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 h -58 c -2.209,0 -4,-1.791 -4,-4 z"
+         id="path329" />
+    </mask>
+    <mask
+       id="path-90-inside-3_1_840"
+       fill="#ffffff">
+      <path
+         d="m 295,270 c 0,-2.209 1.791,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 h -58 c -2.209,0 -4,-1.791 -4,-4 z"
+         id="path320" />
+    </mask>
+    <mask
+       id="path-90-inside-3_1_840-1"
+       fill="#ffffff">
+      <path
+         d="m 295,270 c 0,-2.209 1.791,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 h -58 c -2.209,0 -4,-1.791 -4,-4 z"
+         id="path320-9" />
+    </mask>
+    <mask
+       id="path-87-inside-2_1_840"
+       fill="#ffffff">
+      <path
+         d="m 381,270 c 0,-2.209 1.791,-4 4,-4 h 58 c 2.209,0 4,1.791 4,4 v 24 c 0,2.209 -1.791,4 -4,4 h -58 c -2.209,0 -4,-1.791 -4,-4 z"
+         id="path311" />
+    </mask>
+    <clipPath
+       id="clip0_1_840">
+      <path
+         d="m 0,62 c 0,-2.2091 1.79086,-4 4,-4 h 122 c 2.209,0 4,1.7909 4,4 v 24 c 0,2.2091 -1.791,4 -4,4 H 4 C 1.79086,90 0,88.2091 0,86 Z"
+         fill="#ffffff"
+         id="path363" />
+    </clipPath>
+    <clipPath
+       id="clip4_1_840">
+      <path
+         d="m 263,4 c 0,-2.20914 1.791,-4 4,-4 h 122 c 2.209,0 4,1.79086 4,4 v 24 c 0,2.2091 -1.791,4 -4,4 H 267 c -2.209,0 -4,-1.7909 -4,-4 z"
+         fill="#ffffff"
+         id="path375" />
+    </clipPath>
+    <clipPath
+       id="clip2_1_840">
+      <path
+         d="m 349,62 c 0,-2.2091 1.791,-4 4,-4 h 122 c 2.209,0 4,1.7909 4,4 v 24 c 0,2.2091 -1.791,4 -4,4 H 353 c -2.209,0 -4,-1.7909 -4,-4 z"
+         fill="#ffffff"
+         id="path369" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.07342384)"
+     style="fill:none">
+    <g
+       clip-path="url(#clip2_1_840)"
+       id="g256"
+       transform="matrix(0.18055303,0,0,0.18055303,-62.698641,-0.77394842)"
+       style="fill:none">
+      <rect
+         x="349.5"
+         y="58.5"
+         width="129"
+         height="31"
+         rx="3.5"
+         stroke="#e0e0e0"
+         id="rect252"
+         style="fill:none" />
+    </g>
+  </g>
+</svg>

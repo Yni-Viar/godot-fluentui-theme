@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="24.0px"
+   height="24.0px"
+   viewBox="0 0 24.0 24.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="HolderTogglePressed.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview575"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="33.421469"
+     inkscape:cx="13.434478"
+     inkscape:cy="12.746298"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid698" />
+  </sodipodi:namedview>
+  <defs
+     id="defs570" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       x="2.079385"
+       y="1.9597019"
+       width="19"
+       height="19"
+       rx="9.5"
+       fill="#ffffff"
+       id="rect176" />
+    <rect
+       x="2.079385"
+       y="1.9597019"
+       width="19"
+       height="19"
+       rx="9.5"
+       stroke="#d1d1d1"
+       id="rect178"
+       style="fill:none" />
+    <rect
+       x="5.5793853"
+       y="5.459702"
+       width="12"
+       height="12"
+       rx="6"
+       fill="#0f548c"
+       id="rect180" />
+  </g>
+</svg>

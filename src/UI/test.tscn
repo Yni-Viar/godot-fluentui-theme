@@ -1,0 +1,94 @@
+[gd_scene load_steps=2 format=3 uid="uid://bg5y7fmbvfy4x"]
+
+[ext_resource type="Theme" uid="uid://kn6ecrhutiam" path="res://godot_fluent.tres" id="1_doe6o"]
+
+[node name="Window" type="Window"]
+position = Vector2i(120, 189)
+size = Vector2i(545, 345)
+theme = ExtResource("1_doe6o")
+
+[node name="Panel" type="Panel" parent="."]
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_top = -31.0
+offset_bottom = 9.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="Button" type="Button" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.217
+anchor_top = 0.154
+anchor_right = 0.217
+anchor_bottom = 0.154
+offset_left = -89.265
+offset_top = -15.13
+offset_right = 89.735
+offset_bottom = 23.87
+text = "Test"
+
+[node name="CheckBox2" type="CheckBox" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.249
+anchor_top = 0.423
+anchor_right = 0.249
+anchor_bottom = 0.423
+offset_left = -104.705
+offset_top = -19.855
+offset_right = 104.295
+offset_bottom = 20.145
+grow_horizontal = 2
+grow_vertical = 2
+button_pressed = true
+text = "Checkbox"
+
+[node name="CheckBox" type="CheckBox" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.25
+anchor_top = 0.304
+anchor_right = 0.25
+anchor_bottom = 0.304
+offset_left = -104.25
+offset_top = -20.04
+offset_right = 104.75
+offset_bottom = 19.96
+grow_horizontal = 2
+grow_vertical = 2
+text = "Checkbox"
+
+[node name="CheckButton" type="CheckButton" parent="Panel"]
+layout_mode = 0
+offset_left = 257.0
+offset_top = 72.0
+offset_right = 522.0
+offset_bottom = 136.0
+text = "Toggle"
+
+[node name="LineEdit" type="LineEdit" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.488
+anchor_top = 0.562
+anchor_right = 0.488
+anchor_bottom = 0.562
+offset_left = -225.96
+offset_top = -16.37
+offset_right = 226.04
+offset_bottom = 16.63
+placeholder_text = "Input here something..."
+
+[node name="HSlider" type="HSlider" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.492
+anchor_top = 0.673
+anchor_right = 0.492
+anchor_bottom = 0.673
+offset_left = -232.14
+offset_top = -19.105
+offset_right = 231.86
+offset_bottom = 18.895
