@@ -1,6 +1,7 @@
-[gd_scene load_steps=2 format=3 uid="uid://bg5y7fmbvfy4x"]
+[gd_scene load_steps=3 format=3 uid="uid://bg5y7fmbvfy4x"]
 
 [ext_resource type="Theme" uid="uid://kn6ecrhutiam" path="res://godot_fluent.tres" id="1_doe6o"]
+[ext_resource type="FontFile" uid="uid://cua3lpk3b10u3" path="res://UI/codicon.ttf" id="2_2e40e"]
 
 [node name="Window" type="Window"]
 position = Vector2i(120, 189)
@@ -92,3 +93,21 @@ offset_left = -232.14
 offset_top = -19.105
 offset_right = 231.86
 offset_bottom = 18.895
+
+[node name="Label" type="Label" parent="Panel"]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = 0.668
+anchor_top = 0.427
+anchor_right = 0.668
+anchor_bottom = 0.427
+offset_left = -164.06
+offset_top = -18.395
+offset_right = 163.94
+offset_bottom = 18.605
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_fonts/font = ExtResource("2_2e40e")
+theme_override_font_sizes/font_size = 32
+text = ""
+horizontal_alignment = 2
